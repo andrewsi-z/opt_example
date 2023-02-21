@@ -1,6 +1,6 @@
 # opt_example
 
-# Lab exercises: A simple container image build to run a TensorFlow hands-on exercise.
+## Lab exercises: A simple container image build to run a TensorFlow hands-on exercise.
 
 ## Overview
 This project is to assist in the creation of a container environment to run a simple tensorflow example.
